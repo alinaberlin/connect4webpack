@@ -1,0 +1,17 @@
+{
+  "name": "webpack-pixi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brfs": "^1.4.1",
+    "json-loader": "^0.5.4",
+    "pixi.js": "^4.4.2",
+    "transform-loader": "^0.2.3",
+    "webpack": "^1.12.9"
+  }
+}
